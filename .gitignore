@@ -1,0 +1,7 @@
+ml doc/
+__pycache__/
+*.pyc
+.env
+.vscode/
+venv/
+.venv/
